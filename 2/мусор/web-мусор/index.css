@@ -1,0 +1,52 @@
+.container{
+    max-width: 1170px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 0 auto;
+}
+header{
+    margin-bottom: 30px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+nav{
+    margin: 0 -15px;
+}
+nav a {
+    padding: 0 15px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: black;
+}
+.text-50{
+    width: 50%;
+    line-height: 1.5;
+}
+.img-3{
+    width: 33%;
+}
+.galleria{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+table{
+    border-spacing:0;
+    border-collapse: collapse;
+}
+tr, td, th{
+    border: 1px solid slategrey;
+}
+td, th {
+    padding: 0 10px;
+}
+footer{
+    position: absolute;
+    bottom: 20px;
+}
+caption{
+    margin-bottom: 10px;
+}
