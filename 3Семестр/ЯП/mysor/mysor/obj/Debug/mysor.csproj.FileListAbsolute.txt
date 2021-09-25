@@ -1,0 +1,7 @@
+G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\bin\Debug\mysor.exe.config
+G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\bin\Debug\mysor.exe
+G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\bin\Debug\mysor.pdb
+G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.csproj.AssemblyReference.cache
+G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.csproj.CoreCompileInputs.cache
+G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.exe
+G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.pdb

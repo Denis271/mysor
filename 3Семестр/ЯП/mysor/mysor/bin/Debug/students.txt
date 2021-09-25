@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ClientDataArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clients>
+    <client FIO="2" age="2" tlf="2" />
+  </clients>
+</ClientDataArray>
