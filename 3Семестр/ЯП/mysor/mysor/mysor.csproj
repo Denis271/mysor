@@ -51,6 +51,8 @@
     <Compile Include="MenuIndex.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchase\Purchase.cs" />
+    <Compile Include="purchase\PurchaseMenu.cs" />
     <Compile Include="tovar\MenuTovarGet.cs" />
     <Compile Include="tovar\Tovar.cs" />
     <Compile Include="tovar\MenuTovarAdd.cs" />
@@ -59,5 +61,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

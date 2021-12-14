@@ -59,6 +59,12 @@ namespace mysor
 					MenuCLientGet menuCLientGet = new MenuCLientGet();
 					menuCLientGet.getText();
 				}
+				else if (menuName == "purchase") {
+                    Console.Clear();
+					PurchaseMenu purchaseMenu = new PurchaseMenu();
+					purchaseMenu.getText();
+					purchaseMenu.customSwitch();
+				}
 			}
 		 
 		}

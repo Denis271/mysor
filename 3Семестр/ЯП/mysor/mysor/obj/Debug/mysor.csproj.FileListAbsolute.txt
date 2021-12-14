@@ -5,3 +5,11 @@ G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\my
 G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.csproj.CoreCompileInputs.cache
 G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.exe
 G:\MY-Maks\ДЛЯ ВЫШКИ\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.pdb
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\mysor\mysor\bin\Debug\mysor.exe.config
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\mysor\mysor\bin\Debug\mysor.exe
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\mysor\mysor\bin\Debug\mysor.pdb
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.csproj.AssemblyReference.cache
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.csproj.SuggestedBindingRedirects.cache
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.csproj.CoreCompileInputs.cache
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.exe
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\mysor\mysor\obj\Debug\mysor.pdb

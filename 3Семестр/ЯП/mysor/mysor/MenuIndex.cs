@@ -14,7 +14,6 @@ namespace mysor
 
 		}
 		public void customSwitch() {
- 
 				switch (Console.ReadLine())
 				{
 					case "1":
@@ -23,8 +22,10 @@ namespace mysor
 					case "2":
 						Menu.menuName = "tovar";
 						break;
-			}
-			
+					case "3":
+						Menu.menuName = "purchase";
+						break;
+				}
 		}
 	}
 }
