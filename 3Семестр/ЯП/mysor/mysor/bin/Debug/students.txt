@@ -1,4 +1,7 @@
 <?xml version="1.0"?>
 <ClientDataArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <clients />
+  <clients>
+    <client FIO="Максим Семенов" age="24" tlf="894218412534" />
+    <client FIO="" age="" tlf="" />
+  </clients>
 </ClientDataArray>

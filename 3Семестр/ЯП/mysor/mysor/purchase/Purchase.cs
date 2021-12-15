@@ -21,14 +21,14 @@ namespace mysor
 	[XmlRoot("dataPurchase")]
 	public class PurchaseData
 	{
-		[XmlAttribute("client")]
+		[XmlElement("client")]
 		public ClientData client = new ClientData();
 		[XmlAttribute("date")]
 		public DateTime date;
 
 		[XmlArray("tovars")]
 		[XmlArrayItem("tovar")]
-		public List<TovarData> data = new List<TovarData>();
+		public List<TovarData> tovar = new List<TovarData>();
 
 	}
 
@@ -36,7 +36,7 @@ namespace mysor
 	{
 		string nameFile = "purchase.txt";
 		XmlSerializer serializer = new XmlSerializer(typeof(PurchaseDataArray));
-		public void setTovar(PurchaseData dataArray)
+		public void setPurchase(PurchaseData dataArray)
 		{
 			PurchaseDataArray allData = getPurchase();
 			allData.data.Add(dataArray);
@@ -58,7 +58,21 @@ namespace mysor
 			streamout.Close();
 			return PurchaseData;
 		}
-		public PurchaseDataArray getTovarConsole()
+
+		public void getPurchaseAddConsole(PurchaseData purchase)
+		{
+			Console.WriteLine("ФИО  " + "Возраст  " + "Номер телефона  " + "Дата заказа  "); 
+			Console.WriteLine(purchase.client.FIO + " " + purchase.client.age + " " + purchase.client.tlf + " " + purchase.date);
+			Console.WriteLine("Наименование товара  " + "Цена товара  ");
+			int index = 0;
+			foreach (TovarData data in purchase.tovar)
+            {
+				index++;
+				Console.WriteLine( data.name + "    " + data.price);
+			}
+		}
+
+		public PurchaseDataArray getPurchaseClientConsole()
 		{
 			int index = 0;
 			PurchaseDataArray purchaseData = getPurchase();

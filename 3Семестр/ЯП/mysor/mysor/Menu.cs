@@ -21,8 +21,8 @@ namespace mysor
 					menuIndex.customSwitch();
 
 				}
-				else if(menuName == "tovar")
-                {
+				else if (menuName == "tovar")
+				{
 					Console.Clear();
 					TovarMenu tovarIndex = new TovarMenu();
 					tovarIndex.getText();
@@ -49,24 +49,33 @@ namespace mysor
 					menuClient.customSwitch();
 
 				}
-				else if(menuName == "clientAdd") {
+				else if (menuName == "clientAdd")
+				{
 					Console.Clear();
 					MenuClientAdd menuClientAdd = new MenuClientAdd();
 					menuClientAdd.start();
 				}
-				else if(menuName == "clientGet") {
+				else if (menuName == "clientGet")
+				{
 					Console.Clear();
 					MenuCLientGet menuCLientGet = new MenuCLientGet();
 					menuCLientGet.getText();
 				}
-				else if (menuName == "purchase") {
-                    Console.Clear();
+				else if (menuName == "purchase")
+				{
+					Console.Clear();
 					PurchaseMenu purchaseMenu = new PurchaseMenu();
 					purchaseMenu.getText();
 					purchaseMenu.customSwitch();
 				}
+				else if (menuName == "purchaseAdd")
+				{
+					Console.Clear();
+					PurchaseMenuAdd purchaseMenuAdd = new PurchaseMenuAdd();
+					purchaseMenuAdd.customSwitch();
+
+				}
 			}
-		 
 		}
 	}
 }

@@ -40,6 +40,12 @@ namespace mysor
 				serializer.Serialize(fs, allData);
 			}
 		}
+		public TovarData tovarIndex(int index)
+        {
+			TovarDataArray tovar = getTovar();
+			return tovar.data[index];
+
+		}
 		public TovarDataArray getTovar()
 		{
 			TovarDataArray tovarData = new TovarDataArray();

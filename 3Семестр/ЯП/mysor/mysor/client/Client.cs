@@ -44,6 +44,12 @@ namespace mysor
 			}
 
 		}
+		public ClientData clientIndex(int index)
+        {
+			index--;
+			ClientDataArray client = getClient();
+			return client.data[index];
+		}
 		public void deleteClient(int indexDelete)
         {
 			int index = 0;

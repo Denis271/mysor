@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PurchaseDataArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <purchases>
+    <purchase date="0001-01-01T00:00:00">
+      <client FIO="Максим Семенов" age="24" tlf="894218412534" />
+      <tovars>
+        <tovar name="товар 2" price="21" />
+      </tovars>
+    </purchase>
+  </purchases>
+</PurchaseDataArray>
