@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Menu.cpp
+  MenuIndex.cpp
+  Создание кода...
+Menu.obj : error LNK2005: "void __cdecl Menu(void)" (?Menu@@YAXXZ) уже определен в ConsoleApplication1.obj
+Menu.obj : error LNK2005: "void __cdecl customSwitchMenuIndex(void)" (?customSwitchMenuIndex@@YAXXZ) уже определен в ConsoleApplication1.obj
+MenuIndex.obj : error LNK2005: "void __cdecl customSwitchMenuIndex(void)" (?customSwitchMenuIndex@@YAXXZ) уже определен в ConsoleApplication1.obj
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

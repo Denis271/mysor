@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\mysor"
+    "\\mysor",
+    "\\mysor\\client",
+    "\\mysor\\purchase",
+    "\\mysor\\tovar"
   ],
-  "SelectedNode": "\\mysor.sln",
+  "SelectedNode": "\\mysor\\client\\Client.cs",
   "PreviewInSolutionExplorer": false
 }

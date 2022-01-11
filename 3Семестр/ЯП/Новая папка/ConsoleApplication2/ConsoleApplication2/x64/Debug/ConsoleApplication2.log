@@ -1,0 +1,3 @@
+﻿  FileClient.cpp
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\FileClient.cpp(19,2): warning C4091: static : пропускается слева от "client", когда ни одна переменная не объявлена
+  ConsoleApplication2.vcxproj -> C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
