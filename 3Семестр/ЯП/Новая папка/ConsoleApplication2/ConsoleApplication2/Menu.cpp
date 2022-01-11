@@ -70,6 +70,12 @@ std:cout << "1-добавить клиента\n";
 	}
 	if (index == "2") {
 		loadClient();
+		string index;
+		std::cout << "1-назад\n";
+		std::cin >> index;
+		if (index == "1") {
+			menuMainClient();
+		}
 
 	}
 	if (index == "3") {
