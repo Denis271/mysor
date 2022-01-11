@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication2.cpp" />
     <ClCompile Include="FileClient.cpp" />
+    <ClCompile Include="FileTovar.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>

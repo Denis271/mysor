@@ -1,19 +1,25 @@
 ﻿  ConsoleApplication2.cpp
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(13,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\FileClient.cpp(19,2): warning C4091: static : пропускается слева от "client", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(14,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\FileTovar.cpp(18,2): warning C4091: static : пропускается слева от "tovar", когда ни одна переменная не объявлена
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(25,5): warning C4102: std: неиспользованная метка
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(44,5): warning C4102: std: неиспользованная метка
-C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(63,4): warning C4102: std: неиспользованная метка
-C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(90,5): warning C4102: std: неиспользованная метка
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(70,4): warning C4102: std: неиспользованная метка
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(97,5): warning C4102: std: неиспользованная метка
   FileClient.cpp
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\FileClient.cpp(19,2): warning C4091: static : пропускается слева от "client", когда ни одна переменная не объявлена
+  FileTovar.cpp
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\FileTovar.cpp(18,2): warning C4091: static : пропускается слева от "tovar", когда ни одна переменная не объявлена
   Menu.cpp
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(13,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\FileClient.cpp(19,2): warning C4091: static : пропускается слева от "client", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(14,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\FileTovar.cpp(18,2): warning C4091: static : пропускается слева от "tovar", когда ни одна переменная не объявлена
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(25,5): warning C4102: std: неиспользованная метка
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(44,5): warning C4102: std: неиспользованная метка
-C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(63,4): warning C4102: std: неиспользованная метка
-C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(90,5): warning C4102: std: неиспользованная метка
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(70,4): warning C4102: std: неиспользованная метка
+C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\Menu.cpp(97,5): warning C4102: std: неиспользованная метка
   test.cpp
 C:\Users\maks\Desktop\Новая папка (2)\mysor\3Семестр\ЯП\Новая папка\ConsoleApplication2\ConsoleApplication2\test.cpp(203,9): warning C4101: a: неиспользованная локальная переменная
   Создание кода...

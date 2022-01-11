@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "FileClient.cpp";
-
+#include "FileTovar.cpp";
 using namespace std;
 
 void menuMainClient();
@@ -46,10 +46,17 @@ static void menuMainTovar() {
 	std::cout << "3-назад\n";
 	std::cin >> index;
 	if (index == "1") {
-
+		saveTovar();
+		menuMainTovar();
 	}
 	if (index == "2") {
-
+		loadTovar();
+		string index;
+		std::cout << "1-назад\n";
+		std::cin >> index;
+		if (index == "1") {
+			menuMainTovar();
+		}
 	}
 	if (index == "3") {
 		menuMain();
