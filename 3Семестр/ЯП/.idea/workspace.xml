@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd04bb28-8187-4b8a-b987-fd99a8436741" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/ipch/AutoPCH/bc40b3714b54348a/LIBS.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/libs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/libs.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/печать —новое/~$онтент.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/печать —новое/~WRL2281.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/печать —новое/контент.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/печать —новое/содержимое.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/печать —новое/титульный.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка (2)/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка (2)/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка (2)/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка (2)/.vs/Новая папка (2)/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/ipch/AutoPCH/b1c6c0be9290be9b/FILECLIENT.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/ipch/AutoPCH/b1c6c0be9290be9b/FILECLIENT.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/ipch/AutoPCH/c4ab67bf940f60f9/MENU.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/.vs/ConsoleApplication2/v17/ipch/AutoPCH/c4ab67bf940f60f9/MENU.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/FileClient.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/FileClient.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/FileTovar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/FileTovar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/Menu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/Menu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/client.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/client.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/tovar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/tovar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleA.73455927.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleApplication2.Build.CppClean.log" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleApplication2.Build.CppClean.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleApplication2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleApplication2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleApplication2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleApplication2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleApplication2.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/ConsoleApplication2.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/FileClient.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/FileClient.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/FileTovar.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/FileTovar.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/Menu.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/Menu.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/test.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/test.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/ConsoleApplication2/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/x64/Debug/ConsoleApplication2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/x64/Debug/ConsoleApplication2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/x64/Debug/ConsoleApplication2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/ConsoleApplication2/x64/Debug/ConsoleApplication2.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23hORM6nRYZ8Ir49p2i95uTBN1K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd04bb28-8187-4b8a-b987-fd99a8436741" name="Default Changelist" comment="" />
+      <created>1642182851736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642182851736</updated>
+      <workItem from="1642182853405" duration="180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
