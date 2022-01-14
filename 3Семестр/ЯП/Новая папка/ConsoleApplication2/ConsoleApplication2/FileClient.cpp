@@ -22,7 +22,8 @@ static client client_data;
 // запись структуры в файл
 static void saveClient()
 {
-    cout << "Ваше ФИО: "; cin >> client_data.FIO;
+    cout << "Ваша Фамилия: ";
+    cin >> client_data.FIO;
     cout << "Ваш возраст: "; cin >> client_data.age;  
     cout << "Ваш телефон: "; cin >> client_data.tlf;
     fstream fs;
@@ -52,5 +53,38 @@ static void loadClient()
 
         }
         fs.close(); // закрыть файл
+
+}
+ 
+
+
+// поиск из файла
+static void findClientFIO()
+{
+    string text;
+    fstream fs;
+    int count = 0;
+    fs.open(filename, fstream::in | fstream::out | fstream::app);
+
+    string search;
+    cout << "Укажите ФИО клиента которого вы ищете "; cin >> search;
+    
+
+
+    cout << setw(4) << "№|" << setw(21) << "ФИО|" << setw(21) << "Возраст|" << setw(16) << "телефон|" << endl;
+    while (!fs.eof())
+    {
+
+        count++;
+        fs >> text;
+        istringstream str(text);
+        getline(str, client_data.FIO, ';');
+        getline(str, client_data.age, ';');
+        getline(str, client_data.tlf, ';');
+        if (client_data.FIO.find(search) != std::string::npos) {
+            cout << setw(3) << count << "|" << setw(20) << client_data.FIO << "|" << setw(20) << client_data.age << "|" << setw(15) << client_data.tlf << endl;
+        }
+    }
+    fs.close(); // закрыть файл
 
 }

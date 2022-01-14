@@ -51,3 +51,33 @@ static void loadTovar()
     fs.close(); // закрыть файл
 
 }
+
+// поиск  из файла
+static void findTovarName()
+{
+    string text;
+    fstream fs;
+    int count = 0;
+
+    string search;
+    cout << "Укажите название товара который вы ищете "; cin >> search;
+
+    fs.open(filename_tovar, fstream::in | fstream::out | fstream::app);
+    cout << setw(4) << "№|" << setw(21) << "Название товара|" << setw(21) << "Цена товара|" << endl;
+
+    while (!fs.eof())
+    {
+        count++;
+        fs >> text;
+        istringstream str(text);
+        getline(str, tovar_data.name, ';');
+        getline(str, tovar_data.price, ';');
+        if (tovar_data.name.find(search) != std::string::npos) {
+            cout << setw(3) << count << "|" << setw(20) << tovar_data.name << "|" << setw(20) << tovar_data.price << endl;
+        }
+       
+
+    }
+    fs.close(); // закрыть файл
+
+}
