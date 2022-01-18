@@ -18,7 +18,6 @@ using namespace std;
 void menuMainClient();
 void menuMain();
 void menuMainTovar();
-void menuMainPurchase();
 
 
 static void menuMain() {
@@ -115,25 +114,6 @@ static void menuMainClient() {
 		}
 	}
 	if (index == "4") {
-		menuMain();
-	}
-
-}
-
-static void menuMainPurchase() {
-	system("cls");
-	string index;
-	std:cout << "1-добавить покупку\n";
-	std::cout << "2-отобразить покупку\n";
-	std::cout << "3-назад\n";
-	std::cin >> index;
-	if (index == "1") {
-
-	}
-	if (index == "2") {
-
-	}
-	if (index == "3") {
 		menuMain();
 	}
 
