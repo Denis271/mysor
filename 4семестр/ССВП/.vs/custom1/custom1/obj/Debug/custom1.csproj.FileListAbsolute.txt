@@ -1,0 +1,11 @@
+G:\БИТИ\ССВП\.vs\custom1\custom1\bin\Debug\custom1.exe.config
+G:\БИТИ\ССВП\.vs\custom1\custom1\bin\Debug\custom1.exe
+G:\БИТИ\ССВП\.vs\custom1\custom1\bin\Debug\custom1.pdb
+G:\БИТИ\ССВП\.vs\custom1\custom1\obj\Debug\custom1.csproj.AssemblyReference.cache
+G:\БИТИ\ССВП\.vs\custom1\custom1\obj\Debug\custom1.csproj.SuggestedBindingRedirects.cache
+G:\БИТИ\ССВП\.vs\custom1\custom1\obj\Debug\custom1.Form1.resources
+G:\БИТИ\ССВП\.vs\custom1\custom1\obj\Debug\custom1.Properties.Resources.resources
+G:\БИТИ\ССВП\.vs\custom1\custom1\obj\Debug\custom1.csproj.GenerateResource.cache
+G:\БИТИ\ССВП\.vs\custom1\custom1\obj\Debug\custom1.csproj.CoreCompileInputs.cache
+G:\БИТИ\ССВП\.vs\custom1\custom1\obj\Debug\custom1.exe
+G:\БИТИ\ССВП\.vs\custom1\custom1\obj\Debug\custom1.pdb
